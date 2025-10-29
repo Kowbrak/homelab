@@ -1,4 +1,4 @@
-# Homelab Personnel — Documentation Complète et Professionnelle
+# Homelab Personnel
 
 ## Table des matières
 
